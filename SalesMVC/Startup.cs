@@ -27,8 +27,9 @@ namespace SalesMVC
         {
             services.AddControllersWithViews();
 
-            services.AddDbContext<SalesMVCContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("SalesMVCContext")));
+            string connectionString = Configuration.GetConnectionString("SalesWebMVCContext");
+
+            services.AddDbContext<SalesMVCContext>(options => options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
