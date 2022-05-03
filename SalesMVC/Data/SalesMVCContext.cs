@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
-using SalesMVC.Models;
+﻿using Microsoft.EntityFrameworkCore;
+
 
 namespace SalesMVC.Models
 {
