@@ -152,3 +152,4 @@ C:\Users\pa_ul\source\repos\SalesMVC\SalesMVC\bin\Debug\net5.0\MySqlConnector.dl
 C:\Users\pa_ul\source\repos\SalesMVC\SalesMVC\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\pa_ul\source\repos\SalesMVC\SalesMVC\obj\Debug\net5.0\Razor\Views\Sellers\Index.cshtml.g.cs
 C:\Users\pa_ul\source\repos\SalesMVC\SalesMVC\obj\Debug\net5.0\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\Users\pa_ul\source\repos\SalesMVC\SalesMVC\obj\Debug\net5.0\Razor\Views\Sellers\Delete.cshtml.g.cs
