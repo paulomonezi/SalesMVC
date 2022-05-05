@@ -155,3 +155,6 @@ C:\Users\pa_ul\source\repos\SalesMVC\SalesMVC\obj\Debug\net5.0\Razor\Views\Selle
 C:\Users\pa_ul\source\repos\SalesMVC\SalesMVC\obj\Debug\net5.0\Razor\Views\Sellers\Delete.cshtml.g.cs
 C:\Users\pa_ul\source\repos\SalesMVC\SalesMVC\obj\Debug\net5.0\Razor\Views\Sellers\Details.cshtml.g.cs
 C:\Users\pa_ul\source\repos\SalesMVC\SalesMVC\obj\Debug\net5.0\Razor\Views\Sellers\Edit.cshtml.g.cs
+C:\Users\pa_ul\source\repos\SalesMVC\SalesMVC\obj\Debug\net5.0\Razor\Views\SalesRecords\Index.cshtml.g.cs
+C:\Users\pa_ul\source\repos\SalesMVC\SalesMVC\obj\Debug\net5.0\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
+C:\Users\pa_ul\source\repos\SalesMVC\SalesMVC\obj\Debug\net5.0\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
