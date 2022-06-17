@@ -9,5 +9,5 @@ starting with the fact that i was using a different framework from the one prese
 But with alot of research, i finally made it clear to me what is a MVC!
 
 
- This project is a basic sales website, constructed under MVC pattern and working with mysql database.
+This project is a basic sales website, constructed under MVC pattern and working with mysql database.
 Has simple operational features like add new sellers, new departments, products and some searching by the user.
